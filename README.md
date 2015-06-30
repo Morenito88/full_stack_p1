@@ -16,13 +16,13 @@ If you want to add/edit the movies just do the following steps:
 2 - Create a new Movie instance with this format:
 
     movieX = movie.Movie(MOVIE_NAME,
-                           MOVIE_DESCRIPTION,
-                           MOVIE_RELEASE_DATE,
-                           MOVIE_RATING,
-                           MOVIE_POSTER_IMAGE,
-                           MOVIE_GOTO_SLIDER,
-                           MOVIE_SLIDER_IMAGE,
-                           MOVIE_TRAILER_URL)
+       MOVIE_DESCRIPTION,
+       MOVIE_RELEASE_DATE,
+       MOVIE_RATING,
+       MOVIE_POSTER_IMAGE,
+       MOVIE_GOTO_SLIDER,
+       MOVIE_SLIDER_IMAGE,
+       MOVIE_TRAILER_URL)
                          
 3 - Add "movieX" to "movies" list. Ex:
     
